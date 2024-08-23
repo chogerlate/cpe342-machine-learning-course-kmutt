@@ -6,8 +6,8 @@ This repository is dedicated to storing code from the CPE342 class. It serves as
 
 - [CPE342 Repository](#cpe342-repository)
   - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Getting Started](#getting-started)
+  - [A01: LinearRegressionWithOLS](cpe342_a01_1052.ipynb)
+  - [A02: NonLinearRegressionWithGD](cpe342_a02_1052.ipynb)
 
 ## Introduction
 
