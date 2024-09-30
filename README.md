@@ -9,6 +9,7 @@ This repository is dedicated to storing code from the CPE342 class. It serves as
   - [A01: LinearRegressionWithOLS](cpe342_a01_1052.ipynb)
   - [A02: NonLinearRegressionWithGD](cpe342_a02_1052.ipynb)
   - [A03: Kaplan-Meier survival curve analysis](cpe342_a03_1052.ipynb)
+  - [A04: Tabular Classification](cpe342_a04_1052.ipynb)
 
 ## Introduction
 
