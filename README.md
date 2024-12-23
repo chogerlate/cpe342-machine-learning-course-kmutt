@@ -11,6 +11,7 @@ This repository is dedicated to storing code from the CPE342 class. It serves as
   - [A03: Kaplan-Meier survival curve analysis](cpe342_a03_1052.ipynb)
   - [A04: Tabular Classification](cpe342_a04_1052.ipynb)
   - [A05: Deep Neural Network Mnist Classification](cpe342_a05_1052.ipynb)
+  - [A06: Training Deep Convolutional Neural Network](cpe342_a06_1052.ipynb)
 
 ## Introduction
 
